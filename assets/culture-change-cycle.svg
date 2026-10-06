@@ -1,25 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="title desc">
-  <title id="title">Strengthening Culture While Leading Change</title>
-  <desc id="desc">Clarity, Communication, Collaboration, and Commitment are four ongoing parts of a continuous cycle with no beginning or end.</desc>
-  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L10 5 L0 10Z" fill="#2366a3"/></marker></defs>
-  <rect width="900" height="760" rx="24" fill="#f5f8fb"/>
-  <g fill="none" stroke="#2366a3" stroke-width="5" marker-end="url(#arrow)">
-    <path d="M505 146 A245 245 0 0 1 685 300"/>
-    <path d="M685 460 A245 245 0 0 1 505 614"/>
-    <path d="M395 614 A245 245 0 0 1 215 460"/>
-    <path d="M215 300 A245 245 0 0 1 395 146"/>
+  <title id="title">Leading Change</title>
+  <desc id="desc">Clarify, Communicate, Collaborate, and Commit surround Leading Change, connected by an unbroken organic circle with no arrows, beginning, or end.</desc>
+  <rect width="900" height="760" fill="#fff"/>
+  <!-- A continuous, gently irregular loop gives each practice equal standing. -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M450 132 C615 120 731 227 736 377 C744 530 611 637 450 630 C285 647 158 526 165 377 C157 224 293 123 450 132Z" stroke="#d8e0e7" stroke-width="22"/>
+    <path d="M450 132 C615 120 731 227 736 377" stroke="#287b83" stroke-width="9"/>
+    <path d="M736 377 C744 530 611 637 450 630" stroke="#2366a3" stroke-width="9"/>
+    <path d="M450 630 C285 647 158 526 165 377" stroke="#b88a37" stroke-width="9"/>
+    <path d="M165 377 C157 224 293 123 450 132" stroke="#164dd5" stroke-width="9"/>
+    <path d="M450 153 C599 140 713 239 715 379 C723 518 600 616 450 609 C297 627 178 516 186 377 C177 236 303 144 450 153Z" stroke="#fff" stroke-width="3"/>
   </g>
-  <circle cx="450" cy="380" r="155" fill="#132b40"/>
-  <g fill="#fff" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="25">
-    <text x="450" y="345">Strengthening</text><text x="450" y="379">Culture While</text><text x="450" y="413">Leading Change</text>
+  <g fill="#fff">
+    <circle cx="450" cy="132" r="101"/>
+    <circle cx="736" cy="380" r="117"/>
+    <circle cx="450" cy="630" r="110"/>
+    <circle cx="165" cy="380" r="101"/>
   </g>
-  <g fill="#fff" stroke="#cbd8e4" stroke-width="2">
-    <rect x="320" y="84" width="260" height="88" rx="16"/>
-    <rect x="617" y="336" width="260" height="88" rx="16"/>
-    <rect x="320" y="588" width="260" height="88" rx="16"/>
-    <rect x="23" y="336" width="260" height="88" rx="16"/>
+  <!-- Simple line drawings echo the slide without gradients or shadows. -->
+  <g fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#164dd5" transform="translate(450 105)">
+      <path d="M-15 17 C-15 8 -27 2 -27 -13 A27 27 0 0 1 27 -13 C27 2 15 8 15 17Z M-13 27 H13 M-9 37 H9"/>
+      <path d="M0 -57 V-67 M-41 -42 L-49 -50 M41 -42 L49 -50 M-45 -13 H-56 M45 -13 H56"/>
+    </g>
+    <g stroke="#287b83" transform="translate(736 350)">
+      <path d="M-8 -29 C-34 -29 -48 -15 -48 3 C-48 15 -41 23 -31 29 L-37 45 L-16 35 C9 37 29 22 29 3 C29 -15 15 -29 -8 -29Z"/>
+      <path d="M36 -9 C53 -5 60 8 60 20 C60 32 53 42 43 47 L48 60 L29 52 C17 52 7 48 0 42"/>
+      <path d="M-25 3 H-24 M-10 3 H-9 M5 3 H6" stroke-width="6"/>
+    </g>
+    <g stroke="#2366a3" transform="translate(450 601)">
+      <circle cy="-22" r="16"/><circle cx="-42" cy="-10" r="12"/><circle cx="42" cy="-10" r="12"/>
+      <path d="M-26 38 V24 C-26 -4 26 -4 26 24 V38Z M-34 8 C-48 1 -63 12 -63 28 V38 H-36 M34 8 C48 1 63 12 63 28 V38 H36"/>
+    </g>
+    <g stroke="#b88a37" transform="translate(165 350)">
+      <path d="M-57 -6 L-43 -31 L-25 -21 L-39 7Z M57 -6 L43 -31 L25 -21 L39 7Z"/>
+      <path d="M-25 -20 L-12 -23 L3 -17 L14 -21 L25 -20 M-37 5 L-11 31 C-6 36 0 30 -4 25 M-4 25 L5 33 C11 38 17 30 12 25 M12 25 L21 31 C27 35 32 27 27 22 M27 22 L34 26 C40 29 44 21 39 16 L7 -9 L-5 1 C-17 9 -25 -1 -16 -10 L3 -17 M39 7 L34 12"/>
+      <path d="M0 -40 V-51 M-19 -36 L-25 -44 M19 -36 L25 -44"/>
+    </g>
   </g>
-  <g fill="#132b40" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" font-weight="700">
-    <text x="450" y="138">Clarity</text><text x="747" y="390">Communication</text><text x="450" y="642">Collaboration</text><text x="153" y="390">Commitment</text>
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="600">
+    <text x="450" y="180" fill="#164dd5">Clarify</text>
+    <text x="736" y="443" fill="#287b83">Communicate</text>
+    <text x="450" y="688" fill="#2366a3">Collaborate</text>
+    <text x="165" y="443" fill="#946b24">Commit</text>
+  </g>
+  <g text-anchor="middle" font-family="Georgia, serif" font-size="49" fill="#132b40">
+    <text x="450" y="365">Leading</text>
+    <text x="450" y="423">Change</text>
   </g>
 </svg>
