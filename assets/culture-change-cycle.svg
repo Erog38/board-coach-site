@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="title desc">
+  <title id="title">Strengthening Culture While Leading Change</title>
+  <desc id="desc">Clarity, Communication, Collaboration, and Commitment are four ongoing parts of a continuous cycle with no beginning or end.</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L10 5 L0 10Z" fill="#2366a3"/></marker></defs>
+  <rect width="900" height="760" rx="24" fill="#f5f8fb"/>
+  <g fill="none" stroke="#2366a3" stroke-width="5" marker-end="url(#arrow)">
+    <path d="M505 146 A245 245 0 0 1 685 300"/>
+    <path d="M685 460 A245 245 0 0 1 505 614"/>
+    <path d="M395 614 A245 245 0 0 1 215 460"/>
+    <path d="M215 300 A245 245 0 0 1 395 146"/>
+  </g>
+  <circle cx="450" cy="380" r="155" fill="#132b40"/>
+  <g fill="#fff" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="25">
+    <text x="450" y="345">Strengthening</text><text x="450" y="379">Culture While</text><text x="450" y="413">Leading Change</text>
+  </g>
+  <g fill="#fff" stroke="#cbd8e4" stroke-width="2">
+    <rect x="320" y="84" width="260" height="88" rx="16"/>
+    <rect x="617" y="336" width="260" height="88" rx="16"/>
+    <rect x="320" y="588" width="260" height="88" rx="16"/>
+    <rect x="23" y="336" width="260" height="88" rx="16"/>
+  </g>
+  <g fill="#132b40" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" font-weight="700">
+    <text x="450" y="138">Clarity</text><text x="747" y="390">Communication</text><text x="450" y="642">Collaboration</text><text x="153" y="390">Commitment</text>
+  </g>
+</svg>
